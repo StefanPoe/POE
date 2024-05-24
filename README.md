@@ -12,6 +12,6 @@ Technology: Android Studio(Java)
 
 Language: English
 
-Pitch: https://drive.google.com/file/d/16MlmfzgFu74AbRac75MFSIdakUD5mGWI/view?usp=drive_link
+Pitch: https://drive.google.com/file/d/16MlmfzgFu74AbRac75MFSIdakUD5mGWI/view?usp=sharing
 
-Demo: https://drive.google.com/file/d/1zegF_asgiTXAbUmtO0q7pWzCWReF24TM/view?usp=drive_link
+Demo: https://drive.google.com/file/d/1zegF_asgiTXAbUmtO0q7pWzCWReF24TM/view?usp=sharing
